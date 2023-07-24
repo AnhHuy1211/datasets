@@ -1,0 +1,14 @@
+{
+  "title": "js_exercises_sample_data",
+  "version": "v0.01",
+  "users": [
+    {
+      "username": "admin1",
+      "password": "admin@123"
+    },
+    {
+      "username": "admin2",
+      "password": "admin@456"
+    }
+  ]
+}
